@@ -32,7 +32,7 @@ python server.py
 
 ## Configuration
 
-You can configure the server by modifying the following parameters in the `config.py` file:
+You can configure the server by modifying the following parameters:
 
 - `HOST`: The IP address of the server.
 - `PORT`: The port number to listen on.
